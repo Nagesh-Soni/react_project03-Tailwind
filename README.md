@@ -46,7 +46,7 @@ UI updates automatically when state changes
 
 🚀 Installation & Run
 Clone the repository
-git clone (https://github.com/Nagesh-Soni/react_project03-Tailwind).git
+git clone https://github.com/Nagesh-Soni/react_project03-Tailwind.git
 Go to project folder
 cd react-music-player
 Install dependencies
